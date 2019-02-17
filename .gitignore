@@ -117,3 +117,6 @@ data/athlete_events.csv
 
 #this is created by run_jupyter.sh or .cmd scripts
 home
+
+# Data
+data/2008.csv.bz2
